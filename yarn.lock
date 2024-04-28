@@ -745,9 +745,9 @@
   resolved "https://registry.npmjs.org/@uploadthing/mime-types/-/mime-types-0.2.8.tgz"
   integrity sha512-x+OhjdgC+FXzIScuVDzWxUpPKRjq/WiXNh6bUz1pNAHsb7ecKhxHUfhdWg8+YkO32kDs8TCuMN1bVWTyJYDMQA==
 
-"@uploadthing/react@^6.0.2":
+"@uploadthing/react@^6.5.0":
   version "6.5.0"
-  resolved "https://registry.npmjs.org/@uploadthing/react/-/react-6.5.0.tgz"
+  resolved "https://registry.yarnpkg.com/@uploadthing/react/-/react-6.5.0.tgz#efe05dd1349e55567657361c3234d2b9dd3f7c45"
   integrity sha512-Mapjyl897k93b7SRi5A+Ez4hOpBrgu0vgRFbM2Ni/2GIul1jdJVebcOJ0LDB9TAZmQ4G4sMgL7h1QlfDUBSvlg==
   dependencies:
     "@uploadthing/dropzone" "0.4.0"
