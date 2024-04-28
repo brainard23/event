@@ -19,7 +19,7 @@ import {
     AlertDialogTrigger,
   } from "@/components/ui/alert-dialog"
   import { Input } from "../ui/input"
-  // import { createCategory, getAllCategories } from "@/lib/actions/category.actions"
+import { createCategory, getAllCategories } from "@/lib/actions/category.action"
   
   type DropdownProps = {
     value?: string
@@ -45,8 +45,8 @@ import {
   
         categoryList && setCategories(categoryList as ICategory[])
       }
-  
       getCategories();
+
     }, [])
   
     return (
