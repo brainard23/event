@@ -11,10 +11,10 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "My Events",
-  description: "My events is a platform for event management",
+  title: "ReGroup",
+  description: "ReGroups is a platform for event management",
   icons: {
-    icon: "/assets/images/logo.svg",
+    icon: "/assets/images/logo.png",
   },
 };
 
